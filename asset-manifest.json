@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-task/static/css/main.52086ee6.css",
+    "main.js": "/react-portfolio-task/static/js/main.8e3027e3.js",
+    "static/js/787.0ae72898.chunk.js": "/react-portfolio-task/static/js/787.0ae72898.chunk.js",
+    "static/media/education.gif": "/react-portfolio-task/static/media/education.514841f260f5e4809383.gif",
+    "static/media/hello.gif": "/react-portfolio-task/static/media/hello.ffb660e34116e4c61ce0.gif",
+    "static/media/food.png": "/react-portfolio-task/static/media/food.e05ecb8b4da58ae7f26c.png",
+    "static/media/portfolio.png": "/react-portfolio-task/static/media/portfolio.30f491b3e0e8c8f1eb04.png",
+    "static/media/Amit.jpeg": "/react-portfolio-task/static/media/Amit.34928e5ff9e4d75253b5.jpeg",
+    "static/media/AMIT CV.pdf": "/react-portfolio-task/static/media/AMIT CV.9c61c7af7d8b1ef858c7.pdf",
+    "index.html": "/react-portfolio-task/index.html",
+    "main.52086ee6.css.map": "/react-portfolio-task/static/css/main.52086ee6.css.map",
+    "main.8e3027e3.js.map": "/react-portfolio-task/static/js/main.8e3027e3.js.map",
+    "787.0ae72898.chunk.js.map": "/react-portfolio-task/static/js/787.0ae72898.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52086ee6.css",
+    "static/js/main.8e3027e3.js"
+  ]
+}
